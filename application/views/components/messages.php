@@ -1,0 +1,1 @@
+<?php if($this->flash('courseAdded', "alert alert-success"));  ?>
